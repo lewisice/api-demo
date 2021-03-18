@@ -8,3 +8,4 @@
     2. num后两位与当前时间的分钟数一致时，返回`{error:1, data:'internal error'}`
 
 
+
